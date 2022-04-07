@@ -4,7 +4,7 @@
 
 Code snippets are blocks of code. Once an APEX STATS dataset is loaded, any code snippet can be run in any order. Code snippets can perform calculations, run analysis, or generate new data. Code snippets can be linked together to create a module.
 
-# About APEX STATS
+## About APEX STATS
 
 APEX STATS is a set of editable, modular resources that use Python as instructional technology to make it easier for instructors to teach introductory statistics.
 
@@ -14,5 +14,11 @@ APEX STATS is aligned to the California Transfer and Articulation System, <a hre
 
 APEX STATS is a work in progress! We are taking an iterative, instructor-centered design approach. Your feedback about what is working and not working in APEX STATS will be used to help improve the project.
 
-To get started, check out the instructor guide.
+To get started, check out the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a>.
+
+## APEX STATS Resources
+- <a href-"https://github.com/vectrlab/apex-stats-modules/">Modules</a>
+- <a href-"https://github.com/vectrlab/apex-stats-datasets/">Datasets</a>
+- <a href-"https://github.com/vectrlab/apex-stats-modules/">Code Snippet Library</a>
+- <a href-"https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
 
