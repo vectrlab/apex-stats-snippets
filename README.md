@@ -17,8 +17,8 @@ APEX STATS is a work in progress! We are taking an iterative, instructor-centere
 To get started, check out the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a>.
 
 ## APEX STATS Resources
-- <a href-"https://github.com/vectrlab/apex-stats-modules/">Modules</a>
-- <a href-"https://github.com/vectrlab/apex-stats-datasets/">Datasets</a>
-- <a href-"https://github.com/vectrlab/apex-stats-modules/">Code Snippet Library</a>
-- <a href-"https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>
+- <a href="https://github.com/vectrlab/apex-stats-datasets/">Datasets</a>
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Code Snippet Library</a>
+- <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
 
