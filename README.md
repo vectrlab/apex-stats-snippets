@@ -4,6 +4,10 @@
 
 Code snippets are blocks of code. Once an APEX STATS dataset is loaded, any code snippet can be run in any order. Code snippets can perform calculations, run analysis, or generate new data. Code snippets can be linked together to create a module.
 
+## Quick Start
+
+If you are new to APEX STATS, start with the <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>.
+
 ## About APEX STATS
 
 APEX STATS is a set of open, editable, and modular resources that use Python as instructional technology to make it easier to teach introductory statistics.
